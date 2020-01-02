@@ -111,14 +111,6 @@
             "category": "Marketing",
             "location": "Miami, FL",
             "commitment": "Full Time"
-        },
-        {
-            "id": 15,
-            "title": "Email Marketing Associate",
-            "description": "Convallis posuere morbi leo urna molestie at. Eu scelerisque felis imperdiet proin fermentum leo. Pellentesque habitant morbi tristique senectus et netus et. Malesuada proin libero nunc consequat interdum varius sit amet mattis. Tellus molestie nunc non blandit massa enim nec dui. Feugiat nisl pretium fusce id velit.",
-            "category": "Marketing",
-            "location": "New York, NY",
-            "commitment": "Part Time"
         }
     ]
 }
